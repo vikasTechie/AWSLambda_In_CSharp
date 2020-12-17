@@ -1,0 +1,12 @@
+C:\Users\vikas\source\repos\InventoryManager\inventoryManager.client\bin\Release\netcoreapp3.1\inventoryManager.client.deps.json
+C:\Users\vikas\source\repos\InventoryManager\inventoryManager.client\bin\Release\netcoreapp3.1\inventoryManager.client.runtimeconfig.json
+C:\Users\vikas\source\repos\InventoryManager\inventoryManager.client\bin\Release\netcoreapp3.1\inventoryManager.client.runtimeconfig.dev.json
+C:\Users\vikas\source\repos\InventoryManager\inventoryManager.client\bin\Release\netcoreapp3.1\inventoryManager.client.dll
+C:\Users\vikas\source\repos\InventoryManager\inventoryManager.client\bin\Release\netcoreapp3.1\inventoryManager.client.pdb
+C:\Users\vikas\source\repos\InventoryManager\inventoryManager.client\obj\Release\netcoreapp3.1\inventoryManager.client.csprojAssemblyReference.cache
+C:\Users\vikas\source\repos\InventoryManager\inventoryManager.client\obj\Release\netcoreapp3.1\inventoryManager.client.AssemblyInfoInputs.cache
+C:\Users\vikas\source\repos\InventoryManager\inventoryManager.client\obj\Release\netcoreapp3.1\inventoryManager.client.AssemblyInfo.cs
+C:\Users\vikas\source\repos\InventoryManager\inventoryManager.client\obj\Release\netcoreapp3.1\inventoryManager.client.csproj.CoreCompileInputs.cache
+C:\Users\vikas\source\repos\InventoryManager\inventoryManager.client\obj\Release\netcoreapp3.1\inventoryManager.client.dll
+C:\Users\vikas\source\repos\InventoryManager\inventoryManager.client\obj\Release\netcoreapp3.1\inventoryManager.client.pdb
+C:\Users\vikas\source\repos\InventoryManager\inventoryManager.client\obj\Release\netcoreapp3.1\inventoryManager.client.genruntimeconfig.cache

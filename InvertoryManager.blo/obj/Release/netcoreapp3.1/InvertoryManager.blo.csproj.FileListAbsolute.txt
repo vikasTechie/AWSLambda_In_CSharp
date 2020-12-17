@@ -1,0 +1,17 @@
+C:\Users\vikas\source\repos\InventoryManager\InvertoryManager.blo\bin\Release\netcoreapp3.1\InvertoryManager.blo.deps.json
+C:\Users\vikas\source\repos\InventoryManager\InvertoryManager.blo\bin\Release\netcoreapp3.1\InvertoryManager.blo.runtimeconfig.json
+C:\Users\vikas\source\repos\InventoryManager\InvertoryManager.blo\bin\Release\netcoreapp3.1\InvertoryManager.blo.runtimeconfig.dev.json
+C:\Users\vikas\source\repos\InventoryManager\InvertoryManager.blo\bin\Release\netcoreapp3.1\InvertoryManager.blo.dll
+C:\Users\vikas\source\repos\InventoryManager\InvertoryManager.blo\bin\Release\netcoreapp3.1\InvertoryManager.blo.pdb
+C:\Users\vikas\source\repos\InventoryManager\InvertoryManager.blo\bin\Release\netcoreapp3.1\inventoryManager.client.dll
+C:\Users\vikas\source\repos\InventoryManager\InvertoryManager.blo\bin\Release\netcoreapp3.1\InventoryManager.database.dll
+C:\Users\vikas\source\repos\InventoryManager\InvertoryManager.blo\bin\Release\netcoreapp3.1\inventoryManager.client.pdb
+C:\Users\vikas\source\repos\InventoryManager\InvertoryManager.blo\bin\Release\netcoreapp3.1\InventoryManager.database.pdb
+C:\Users\vikas\source\repos\InventoryManager\InvertoryManager.blo\obj\Release\netcoreapp3.1\InvertoryManager.blo.csprojAssemblyReference.cache
+C:\Users\vikas\source\repos\InventoryManager\InvertoryManager.blo\obj\Release\netcoreapp3.1\InvertoryManager.blo.AssemblyInfoInputs.cache
+C:\Users\vikas\source\repos\InventoryManager\InvertoryManager.blo\obj\Release\netcoreapp3.1\InvertoryManager.blo.AssemblyInfo.cs
+C:\Users\vikas\source\repos\InventoryManager\InvertoryManager.blo\obj\Release\netcoreapp3.1\InvertoryManager.blo.csproj.CoreCompileInputs.cache
+C:\Users\vikas\source\repos\InventoryManager\InvertoryManager.blo\obj\Release\netcoreapp3.1\InvertoryManager.blo.csproj.CopyComplete
+C:\Users\vikas\source\repos\InventoryManager\InvertoryManager.blo\obj\Release\netcoreapp3.1\InvertoryManager.blo.dll
+C:\Users\vikas\source\repos\InventoryManager\InvertoryManager.blo\obj\Release\netcoreapp3.1\InvertoryManager.blo.pdb
+C:\Users\vikas\source\repos\InventoryManager\InvertoryManager.blo\obj\Release\netcoreapp3.1\InvertoryManager.blo.genruntimeconfig.cache

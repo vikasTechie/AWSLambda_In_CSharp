@@ -1,0 +1,12 @@
+C:\Users\vikas\source\repos\InventoryManager\InventoryManagerDatabase\bin\Debug\netcoreapp3.1\InventoryManagerDatabase.deps.json
+C:\Users\vikas\source\repos\InventoryManager\InventoryManagerDatabase\bin\Debug\netcoreapp3.1\InventoryManagerDatabase.runtimeconfig.json
+C:\Users\vikas\source\repos\InventoryManager\InventoryManagerDatabase\bin\Debug\netcoreapp3.1\InventoryManagerDatabase.runtimeconfig.dev.json
+C:\Users\vikas\source\repos\InventoryManager\InventoryManagerDatabase\bin\Debug\netcoreapp3.1\InventoryManagerDatabase.dll
+C:\Users\vikas\source\repos\InventoryManager\InventoryManagerDatabase\obj\Debug\netcoreapp3.1\InventoryManagerDatabase.csprojAssemblyReference.cache
+C:\Users\vikas\source\repos\InventoryManager\InventoryManagerDatabase\obj\Debug\netcoreapp3.1\InventoryManagerDatabase.AssemblyInfoInputs.cache
+C:\Users\vikas\source\repos\InventoryManager\InventoryManagerDatabase\obj\Debug\netcoreapp3.1\InventoryManagerDatabase.AssemblyInfo.cs
+C:\Users\vikas\source\repos\InventoryManager\InventoryManagerDatabase\obj\Debug\netcoreapp3.1\InventoryManagerDatabase.genruntimeconfig.cache
+C:\Users\vikas\source\repos\InventoryManager\InventoryManagerDatabase\bin\Debug\netcoreapp3.1\InventoryManagerDatabase.pdb
+C:\Users\vikas\source\repos\InventoryManager\InventoryManagerDatabase\obj\Debug\netcoreapp3.1\InventoryManagerDatabase.csproj.CoreCompileInputs.cache
+C:\Users\vikas\source\repos\InventoryManager\InventoryManagerDatabase\obj\Debug\netcoreapp3.1\InventoryManagerDatabase.dll
+C:\Users\vikas\source\repos\InventoryManager\InventoryManagerDatabase\obj\Debug\netcoreapp3.1\InventoryManagerDatabase.pdb
